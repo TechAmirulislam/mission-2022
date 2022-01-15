@@ -1,0 +1,76 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 50px;}
+h1{font-size: 50px;
+    color: aqua;}
+
+h2{font-size: 50px;
+color: blueviolet;
+}
+h3{font-size: 50px;
+color: burlywood;
+}
+.top-banner{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width{
+    padding: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.Goals img{
+    width: 50%;
+}
+.Mission img{
+ width: 50%;  
+}
+.vission img{
+width: 50%;
+}
+.techamirul-web img{
+      width: 50%;
+  }
+#web-dev-experiences{
+    border-left: 5px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;}
+    
+    .link-button{
+    text-decoration: none;
+    background-image: radial-gradient(orange, tomato);
+    padding: 10px 40px;
+    color:white;
+    font-weight: 700;
+    border-radius: 5px;}
+
+    footer p{
+        color: gold;
+    font-size: 50px; 
+    text-align: center;
+}
+.Mission{
+    background-color: rgb(248, 247, 243);
+   margin-left: 7%;
+   padding-top: 2%;
+   }
+   .vission{
+       background-color: rgb(248, 243, 247);
+       margin-left: 7%;
+       padding-top: 2%;
+   }
+
+   .Goals{
+       background-color: rgb(247, 247, 248);
+       margin-left: 7%;
+       padding-top: 2%;}
+
+  
